@@ -1,0 +1,6 @@
+INFO aop_example.Logger - AopExample.secondMethod() started at 15/01/2020 10:09:18.
+INFO aop_example.Logger - AopExample.secondMethod() finished at 15/01/2020 10:09:21. Time elapsed: 00:00:03.0006462
+INFO aop_example.Logger - AopExample.thirdMethod() started at 15/01/2020 10:09:21.
+INFO aop_example.Logger - AopExample.thirdMethod() finished at 15/01/2020 10:09:22. Time elapsed: 00:00:01.0011710
+INFO aop_example.Logger - User named John Doe with role STANDARD_USER performed LOGIN at 15/01/2020 10:09:22.
+INFO aop_example.Logger - User named Administrator with role ADMINISTRATOR performed CHANGE_PASSWORD at 15/01/2020 10:09:22.

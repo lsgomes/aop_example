@@ -1,0 +1,11 @@
+C:\Users\dossanto\projects\aop_example\aop_example\bin\Debug\netcoreapp2.1\aop_example.deps.json
+C:\Users\dossanto\projects\aop_example\aop_example\bin\Debug\netcoreapp2.1\aop_example.runtimeconfig.json
+C:\Users\dossanto\projects\aop_example\aop_example\bin\Debug\netcoreapp2.1\aop_example.runtimeconfig.dev.json
+C:\Users\dossanto\projects\aop_example\aop_example\bin\Debug\netcoreapp2.1\aop_example.dll
+C:\Users\dossanto\projects\aop_example\aop_example\obj\Debug\netcoreapp2.1\aop_example.csprojAssemblyReference.cache
+C:\Users\dossanto\projects\aop_example\aop_example\obj\Debug\netcoreapp2.1\aop_example.csproj.CoreCompileInputs.cache
+C:\Users\dossanto\projects\aop_example\aop_example\obj\Debug\netcoreapp2.1\aop_example.AssemblyInfoInputs.cache
+C:\Users\dossanto\projects\aop_example\aop_example\obj\Debug\netcoreapp2.1\aop_example.AssemblyInfo.cs
+C:\Users\dossanto\projects\aop_example\aop_example\bin\Debug\netcoreapp2.1\aop_example.pdb
+C:\Users\dossanto\projects\aop_example\aop_example\obj\Debug\netcoreapp2.1\aop_example.dll
+C:\Users\dossanto\projects\aop_example\aop_example\obj\Debug\netcoreapp2.1\aop_example.pdb
